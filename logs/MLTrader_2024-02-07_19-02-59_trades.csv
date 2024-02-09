@@ -1,0 +1,5 @@
+time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2023-05-05 09:30:00-04:00,MLTrader,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-05-05 09:30:00-04:00,MLTrader,AAPL,buy,market,fill,1,gtc,0.0,1,stock,170.97999572753906,292.0,0.0
+2023-11-03 09:30:00-04:00,MLTrader,AAPL,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-11-03 09:30:00-04:00,MLTrader,AAPL,buy,market,fill,1,gtc,0.0,1,stock,174.24000549316406,144.0,0.0

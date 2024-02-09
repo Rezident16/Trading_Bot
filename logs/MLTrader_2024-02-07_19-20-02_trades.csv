@@ -1,0 +1,13 @@
+time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
+2023-01-13 09:30:00-05:00,MLTrader,GOOG,sell,market,new,1,gtc,0.0,1,stock,,,
+2023-01-13 09:30:00-05:00,MLTrader,GOOG,sell,market,fill,1,gtc,0.0,1,stock,91.52799987792969,546.0,0.0
+2023-01-20 09:30:00-05:00,MLTrader,GOOG,buy,limit,canceled,1,day,0.0,1,stock,,,
+2023-01-20 09:30:00-05:00,MLTrader,GOOG,buy,stop,fill,1,day,0.0,1,stock,96.10439987182617,546.0,0.0
+2023-04-04 09:30:00-04:00,MLTrader,GOOG,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-04-04 09:30:00-04:00,MLTrader,GOOG,buy,market,fill,1,gtc,0.0,1,stock,106.12000274658203,459.0,0.0
+2023-04-26 09:30:00-04:00,MLTrader,GOOG,buy,market,new,1,gtc,0.0,1,stock,,,
+2023-04-26 09:30:00-04:00,MLTrader,GOOG,buy,market,fill,1,gtc,0.0,1,stock,105.2300033569336,232.0,0.0
+2023-05-18 09:30:00-04:00,MLTrader,GOOG,sell,stop,canceled,1,day,0.0,1,stock,,,
+2023-05-18 09:30:00-04:00,MLTrader,GOOG,sell,limit,fill,1,day,0.0,1,stock,126.2760040283203,232.0,0.0
+2023-06-05 08:30:00-04:00,MLTrader,GOOG,sell,stop,canceled,1,day,0.0,1,stock,,,
+2023-06-05 08:30:00-04:00,MLTrader,GOOG,sell,limit,fill,1,day,0.0,1,stock,127.34400329589843,459.0,0.0

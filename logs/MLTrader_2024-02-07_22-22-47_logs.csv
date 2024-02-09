@@ -1,0 +1,468 @@
+2024-02-07 22:22:47,354: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-02-07 22:22:48,241: root: INFO: Current backtesting datetime 2023-01-03 08:30:00-05:00
+2024-02-07 22:22:48,242: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-07 22:22:48,242: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-05:00
+2024-02-07 22:22:48,242: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-07 22:22:48,243: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:48[0m
+2024-02-07 22:22:48,243: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:48,247: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:48,426: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:48,433: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,384: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,389: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,458: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,601: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,604: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,658: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,662: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,717: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,721: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,779: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,782: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,835: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,839: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,934: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,939: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,994: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:49,998: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,042: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:22:50[0m
+2024-02-07 22:22:50,043: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:22:50,044: root: INFO: Current backtesting datetime 2023-01-03 16:00:00-05:00
+2024-02-07 22:22:50,044: root: INFO: Current backtesting datetime 2023-01-04 09:30:00-05:00
+2024-02-07 22:22:50,044: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:50[0m
+2024-02-07 22:22:50,044: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,045: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,206: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,207: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,468: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,469: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,536: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,537: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,727: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,728: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,920: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,921: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:50,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,017: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,220: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,220: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,435: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:22:51[0m
+2024-02-07 22:22:51,436: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:22:51,437: root: INFO: Current backtesting datetime 2023-01-04 16:00:00-05:00
+2024-02-07 22:22:51,437: root: INFO: Current backtesting datetime 2023-01-05 09:30:00-05:00
+2024-02-07 22:22:51,437: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:51[0m
+2024-02-07 22:22:51,437: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:51,647: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,012: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,014: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,094: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,095: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,336: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,337: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,581: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,581: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,649: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,748: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,751: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,951: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:52,952: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,192: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,193: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,318: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:22:53[0m
+2024-02-07 22:22:53,319: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:22:53,320: root: INFO: Current backtesting datetime 2023-01-05 16:00:00-05:00
+2024-02-07 22:22:53,320: root: INFO: Current backtesting datetime 2023-01-06 09:30:00-05:00
+2024-02-07 22:22:53,320: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:53[0m
+2024-02-07 22:22:53,320: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,321: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,549: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,841: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,916: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:53,917: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,091: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,091: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,343: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,403: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,404: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,515: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,516: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,622: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,870: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:54,871: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,114: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,115: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,234: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:22:55[0m
+2024-02-07 22:22:55,235: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:22:55,235: root: INFO: Current backtesting datetime 2023-01-06 16:00:00-05:00
+2024-02-07 22:22:55,235: root: INFO: Current backtesting datetime 2023-01-07 09:30:00-05:00
+2024-02-07 22:22:55,236: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-02-07 22:22:55,236: root: INFO: Current backtesting datetime 2023-01-07 09:29:00-05:00
+2024-02-07 22:22:55,237: root: INFO: Current backtesting datetime 2023-01-07 09:29:00-05:00
+2024-02-07 22:22:55,237: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-07 22:22:55,237: root: INFO: Current backtesting datetime 2023-01-09 08:30:00-05:00
+2024-02-07 22:22:55,238: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-07 22:22:55,238: root: INFO: Current backtesting datetime 2023-01-09 09:30:00-05:00
+2024-02-07 22:22:55,238: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-07 22:22:55,239: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:55[0m
+2024-02-07 22:22:55,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,360: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,362: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,520: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,521: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,577: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,578: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,801: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,923: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,991: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:55,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,113: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,254: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,255: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,480: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,663: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,663: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,759: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:22:56[0m
+2024-02-07 22:22:56,759: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:22:56,760: root: INFO: Current backtesting datetime 2023-01-09 16:00:00-05:00
+2024-02-07 22:22:56,760: root: INFO: Current backtesting datetime 2023-01-10 09:30:00-05:00
+2024-02-07 22:22:56,760: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:56[0m
+2024-02-07 22:22:56,760: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,761: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,976: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:56,976: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,150: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,153: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,214: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,215: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,468: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,469: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,594: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,658: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,849: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,850: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,945: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:57,945: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,142: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,143: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,398: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,399: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,463: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:22:58[0m
+2024-02-07 22:22:58,463: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:22:58,464: root: INFO: Current backtesting datetime 2023-01-10 16:00:00-05:00
+2024-02-07 22:22:58,464: root: INFO: Current backtesting datetime 2023-01-11 09:30:00-05:00
+2024-02-07 22:22:58,464: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:22:58[0m
+2024-02-07 22:22:58,464: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,465: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:58,765: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,036: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,038: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,100: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,101: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,306: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,307: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,449: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,450: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,512: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,513: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,687: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,789: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,790: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:22:59,988: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,259: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,260: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,319: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:00[0m
+2024-02-07 22:23:00,320: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:00,320: root: INFO: Current backtesting datetime 2023-01-11 16:00:00-05:00
+2024-02-07 22:23:00,320: root: INFO: Current backtesting datetime 2023-01-12 09:30:00-05:00
+2024-02-07 22:23:00,321: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:00[0m
+2024-02-07 22:23:00,321: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,322: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,540: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,729: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,729: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,789: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,790: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:00,986: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,166: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,166: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,222: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,223: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,411: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,524: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,525: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,699: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,700: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,884: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,885: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,980: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:01[0m
+2024-02-07 22:23:01,981: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:01,982: root: INFO: Current backtesting datetime 2023-01-12 16:00:00-05:00
+2024-02-07 22:23:01,982: root: INFO: Current backtesting datetime 2023-01-13 09:30:00-05:00
+2024-02-07 22:23:01,982: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:01[0m
+2024-02-07 22:23:01,982: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:01,983: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,166: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,167: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,403: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,606: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,607: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,833: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,834: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:02,895: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,067: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,068: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,195: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,196: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,384: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,385: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,565: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,663: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:03[0m
+2024-02-07 22:23:03,664: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:03,664: root: INFO: Current backtesting datetime 2023-01-13 16:00:00-05:00
+2024-02-07 22:23:03,664: root: INFO: Current backtesting datetime 2023-01-14 09:30:00-05:00
+2024-02-07 22:23:03,665: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-02-07 22:23:03,665: root: INFO: Current backtesting datetime 2023-01-14 09:29:00-05:00
+2024-02-07 22:23:03,666: root: INFO: Current backtesting datetime 2023-01-14 09:29:00-05:00
+2024-02-07 22:23:03,666: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-07 22:23:03,666: root: INFO: Current backtesting datetime 2023-01-17 08:30:00-05:00
+2024-02-07 22:23:03,667: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-07 22:23:03,667: root: INFO: Current backtesting datetime 2023-01-17 09:30:00-05:00
+2024-02-07 22:23:03,667: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-07 22:23:03,668: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:03[0m
+2024-02-07 22:23:03,668: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,668: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,779: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,780: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,876: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,876: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,930: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:03,931: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,052: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,052: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,107: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,108: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,162: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,162: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,252: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,253: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,309: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,309: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,432: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,433: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,600: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:04[0m
+2024-02-07 22:23:04,600: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:04,601: root: INFO: Current backtesting datetime 2023-01-17 16:00:00-05:00
+2024-02-07 22:23:04,601: root: INFO: Current backtesting datetime 2023-01-18 09:30:00-05:00
+2024-02-07 22:23:04,601: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:04[0m
+2024-02-07 22:23:04,601: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,602: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,892: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,953: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:04,953: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,174: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,175: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,284: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,285: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,341: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,444: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,445: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,857: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:05,861: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,164: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,166: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,414: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,415: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,471: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:06[0m
+2024-02-07 22:23:06,472: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:06,473: root: INFO: Current backtesting datetime 2023-01-18 16:00:00-05:00
+2024-02-07 22:23:06,473: root: INFO: Current backtesting datetime 2023-01-19 09:30:00-05:00
+2024-02-07 22:23:06,473: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:06[0m
+2024-02-07 22:23:06,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,474: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,683: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,684: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,863: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,864: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,918: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:06,919: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,113: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,315: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,316: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,376: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,377: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,480: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,480: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,587: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,865: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:07,866: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,075: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,076: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,137: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:08[0m
+2024-02-07 22:23:08,138: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:08,138: root: INFO: Current backtesting datetime 2023-01-19 16:00:00-05:00
+2024-02-07 22:23:08,138: root: INFO: Current backtesting datetime 2023-01-20 09:30:00-05:00
+2024-02-07 22:23:08,138: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:08[0m
+2024-02-07 22:23:08,139: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,140: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,333: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,334: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,598: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,600: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,656: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,869: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:08,869: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,065: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,066: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,123: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,125: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,245: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,246: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,350: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,351: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,584: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,585: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,826: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,827: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,886: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:09[0m
+2024-02-07 22:23:09,887: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:09,888: root: INFO: Current backtesting datetime 2023-01-20 16:00:00-05:00
+2024-02-07 22:23:09,888: root: INFO: Current backtesting datetime 2023-01-21 09:30:00-05:00
+2024-02-07 22:23:09,889: root: INFO: [34mMLTrader : The market is not currently open, skipping this trading iteration[0m
+2024-02-07 22:23:09,889: root: INFO: Current backtesting datetime 2023-01-21 09:29:00-05:00
+2024-02-07 22:23:09,890: root: INFO: Current backtesting datetime 2023-01-21 09:29:00-05:00
+2024-02-07 22:23:09,890: root: INFO: MLTrader : Executing the after_market_closes lifecycle method
+2024-02-07 22:23:09,890: root: INFO: Current backtesting datetime 2023-01-23 08:30:00-05:00
+2024-02-07 22:23:09,891: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-07 22:23:09,891: root: INFO: Current backtesting datetime 2023-01-23 09:30:00-05:00
+2024-02-07 22:23:09,891: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-07 22:23:09,892: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:09[0m
+2024-02-07 22:23:09,892: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:09,893: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,055: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,056: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,210: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,211: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,267: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,268: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,460: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,461: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,623: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,624: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,675: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,675: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,784: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,785: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:10,837: alpaca_trade_api.rest: WARNING: sleep 3 seconds and retrying https://data.alpaca.markets/v1beta1/news 3 more time(s)...
+2024-02-07 22:23:13,981: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:13,982: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,220: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,221: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,500: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,612: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:14[0m
+2024-02-07 22:23:14,614: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:14,614: root: INFO: Current backtesting datetime 2023-01-23 16:00:00-05:00
+2024-02-07 22:23:14,614: root: INFO: Current backtesting datetime 2023-01-24 09:30:00-05:00
+2024-02-07 22:23:14,615: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:14[0m
+2024-02-07 22:23:14,615: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,616: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,769: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,966: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:14,967: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,024: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,352: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,353: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,453: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,506: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,507: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,683: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,684: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,808: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:15,809: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,115: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,117: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,411: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,470: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:16[0m
+2024-02-07 22:23:16,472: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-07 22:23:16,472: root: INFO: Current backtesting datetime 2023-01-24 16:00:00-05:00
+2024-02-07 22:23:16,472: root: INFO: Current backtesting datetime 2023-01-25 09:30:00-05:00
+2024-02-07 22:23:16,473: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-07 22:23:16[0m
+2024-02-07 22:23:16,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,474: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:16,672: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,002: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,067: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,069: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,267: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,268: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,382: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,382: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,444: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,445: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,600: root: INFO: MLTrader : Executing the on_abrupt_closing event method
+2024-02-07 22:23:17,655: root: INFO: Trading finished
+2024-02-07 22:23:17,737: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,738: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,886: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,887: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:17,938: alpaca_trade_api.rest: WARNING: sleep 3 seconds and retrying https://data.alpaca.markets/v1beta1/news 3 more time(s)...
+2024-02-07 22:23:21,421: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:21,424: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:21,701: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:21,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-07 22:23:21,774: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-07 22:23:21[0m
+2024-02-07 22:23:21,776: root: INFO: Current backtesting datetime 2023-01-25 15:59:00-05:00
+2024-02-07 22:23:21,777: root: INFO: Current backtesting datetime 2023-01-25 16:00:00-05:00
+2024-02-07 22:23:21,777: root: INFO: Backtesting finished
+2024-02-07 22:23:21,782: root: INFO: There were no trades in this backtest.
+2024-02-07 22:23:21,848: root: ERROR: Not enough data to create a tearsheet, at least 2 days of data are required. Skipping
+2024-02-07 22:23:21,848: backtest_stats: INFO: Backtest took 0:00:34.496037 for a speed of 0.000

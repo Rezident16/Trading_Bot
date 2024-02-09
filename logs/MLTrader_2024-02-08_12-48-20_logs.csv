@@ -1,0 +1,662 @@
+2024-02-08 12:48:20,463: root: INFO: MLTrader : Executing the initialize lifecycle method
+2024-02-08 12:48:21,254: root: INFO: Current backtesting datetime 2022-01-03 08:30:00-05:00
+2024-02-08 12:48:21,254: root: INFO: MLTrader : Executing the before_market_opens lifecycle method
+2024-02-08 12:48:21,255: root: INFO: Current backtesting datetime 2022-01-03 09:30:00-05:00
+2024-02-08 12:48:21,255: root: INFO: MLTrader : Executing the before_starting_trading lifecycle method
+2024-02-08 12:48:21,255: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-08 12:48:21[0m
+2024-02-08 12:48:21,256: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:21,259: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:22,874: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:22,890: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,028: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,085: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,089: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,143: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,148: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,332: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,337: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,616: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,629: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,941: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:23,952: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:24,222: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:24,227: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:24,576: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:24,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:24,952: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:24,957: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,068: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,073: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,122: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,125: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,350: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,355: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,414: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,418: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,477: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,580: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,586: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,640: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,644: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,792: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,796: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,899: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:25,903: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,014: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,019: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,069: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,074: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,125: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,128: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,176: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,180: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,227: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,285: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,289: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,396: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,403: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,462: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,513: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,522: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,652: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,849: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,883: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,935: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,940: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,992: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:26,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,099: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,103: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,244: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,251: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,309: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,313: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,365: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,421: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,425: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,530: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,534: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,593: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,644: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,690: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,694: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,740: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,744: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,896: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,901: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,962: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:27,965: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,022: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,083: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,086: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,190: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,194: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,289: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,293: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,392: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,396: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,447: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,450: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,548: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,552: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,654: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,658: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,712: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,715: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,811: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:28,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,004: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,011: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,065: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,074: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,124: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,127: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,173: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,176: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,231: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,237: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,332: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,335: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,386: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,390: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,439: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,488: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,492: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,540: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,543: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,644: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,700: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,704: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,748: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,803: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,807: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,895: root: INFO: [32mNew market order of | 98.0 BA buy | at price $214.20000000000002 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:29,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:29,912: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,018: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,023: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,076: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,080: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,131: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,135: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,183: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,188: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,244: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,287: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,292: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,348: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,410: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,465: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,528: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,539: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,594: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-08 12:48:30[0m
+2024-02-08 12:48:30,595: root: INFO: Getting historical prices for BA, 1 bars, 
+2024-02-08 12:48:30,595: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,597: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,598: root: INFO: market order of | 98.0 BA buy | at price $214.20000000000002 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:30,598: root: INFO: market order of | 98.0 BA buy | at price $214.20000000000002 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:30,599: root: INFO: [32mFilled Transaction: buy 98.0 of BA at 204.00000000 USD per share[0m
+2024-02-08 12:48:30,599: root: INFO: market order of | 98.0 BA buy | at price $214.20000000000002 of class bracket with status new was filled
+2024-02-08 12:48:30,606: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-08 12:48:30,607: root: INFO: Current backtesting datetime 2022-01-03 16:00:00-05:00
+2024-02-08 12:48:30,607: root: INFO: Current backtesting datetime 2022-01-04 09:30:00-05:00
+2024-02-08 12:48:30,609: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-08 12:48:30[0m
+2024-02-08 12:48:30,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:30,611: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,060: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,068: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,198: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,198: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,253: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,253: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,300: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,300: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,428: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,429: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,836: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,837: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,958: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:31,959: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,141: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,142: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,481: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,483: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,588: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,590: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,638: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,639: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,743: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,980: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:32,981: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,087: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,088: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,216: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,217: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,330: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,331: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,444: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,445: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,547: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,547: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,770: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,771: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,882: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,886: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,944: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:33,945: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,042: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,183: root: INFO: [32mNew market order of | 209.0 MRK buy | at price $80.22000160217286 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:34,187: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,188: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,241: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,242: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,292: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,293: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,395: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,396: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,447: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,447: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,556: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,657: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,658: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,960: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:34,964: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,120: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,122: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,176: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,176: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,275: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,276: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,381: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,381: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,436: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,437: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,544: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,702: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,703: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,813: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,866: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,867: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,971: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:35,972: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,028: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,029: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,136: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,137: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,288: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,289: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,441: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,496: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,609: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,610: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,714: root: INFO: [32mNew market order of | 316.0 CMCSA buy | at price $53.245499038696295 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:36,716: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,716: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,771: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,772: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,822: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,823: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,868: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,868: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,979: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:36,980: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,041: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,096: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,097: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,202: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,203: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,443: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,448: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,511: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,511: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,565: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,614: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,615: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,659: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,660: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,710: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,711: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,767: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,768: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,815: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,816: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,865: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,866: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,919: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:37,920: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,041: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,042: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,092: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,095: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,144: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,145: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,194: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,195: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,305: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,306: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,359: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,360: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,460: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,460: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,569: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,570: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,621: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,624: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,667: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,715: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,764: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,765: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,813: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,860: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:38,911: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,042: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-08 12:48:39[0m
+2024-02-08 12:48:39,043: root: INFO: Getting historical prices for BA, 1 bars, 
+2024-02-08 12:48:39,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,043: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,044: root: INFO: stop order of | 98.0 BA sell | at price $197.88 with status unprocessed was canceled.
+2024-02-08 12:48:39,046: root: INFO: [32mFilled Transaction: sell 98.0 of BA at 214.20000000 USD per share[0m
+2024-02-08 12:48:39,046: root: INFO: limit order of | 98.0 BA sell | at price $214.20000000000002 with status unprocessed was filled
+2024-02-08 12:48:39,047: root: INFO: Position 0.000000 shares of BA liquidated
+2024-02-08 12:48:39,048: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:39,048: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,049: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,049: root: INFO: market order of | 316.0 CMCSA buy | at price $53.245499038696295 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:39,049: root: INFO: market order of | 316.0 CMCSA buy | at price $53.245499038696295 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:39,049: root: INFO: [32mFilled Transaction: buy 316.0 of CMCSA at 50.70999908 USD per share[0m
+2024-02-08 12:48:39,049: root: INFO: market order of | 316.0 CMCSA buy | at price $53.245499038696295 of class bracket with status new was filled
+2024-02-08 12:48:39,050: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:39,050: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,051: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,052: root: INFO: market order of | 209.0 MRK buy | at price $80.22000160217286 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:39,052: root: INFO: market order of | 209.0 MRK buy | at price $80.22000160217286 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:39,052: root: INFO: [32mFilled Transaction: buy 209.0 of MRK at 76.40000153 USD per share[0m
+2024-02-08 12:48:39,052: root: INFO: market order of | 209.0 MRK buy | at price $80.22000160217286 of class bracket with status new was filled
+2024-02-08 12:48:39,054: root: INFO: MLTrader : [34mSleeping for 86400 seconds[0m
+2024-02-08 12:48:39,055: root: INFO: Current backtesting datetime 2022-01-04 16:00:00-05:00
+2024-02-08 12:48:39,055: root: INFO: Current backtesting datetime 2022-01-05 09:30:00-05:00
+2024-02-08 12:48:39,057: root: INFO: [34mMLTrader : Executing the on_trading_iteration lifecycle method at 2024-02-08 12:48:39[0m
+2024-02-08 12:48:39,057: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,057: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,249: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,250: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,304: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,304: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,353: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,353: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,404: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,405: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,760: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,761: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,991: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:39,993: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,146: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,147: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,306: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,307: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,704: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,705: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,814: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,815: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,910: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:40,911: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,020: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,021: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,212: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,213: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,308: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,309: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,433: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,433: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,566: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,567: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,686: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,687: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,804: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,805: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,921: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,923: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,975: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:41,976: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,140: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,141: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,197: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,198: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,302: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,443: root: INFO: [32mNew market order of | 179.0 MRK buy | at price $81.123002243042 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:42,446: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,446: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,545: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,546: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,642: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,749: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,750: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,807: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,807: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:42,910: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,014: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,238: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,240: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,437: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,557: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,697: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,809: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,810: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,861: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,862: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,985: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:43,987: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,147: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,148: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,245: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,246: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,355: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,356: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,515: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,516: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,673: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,674: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,807: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:44,808: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,174: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,524: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,526: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,591: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,592: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,752: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:45,753: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,030: root: INFO: [32mNew market order of | 273.0 CMCSA buy | at price $53.098499679565435 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:46,048: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,049: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,171: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,173: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,276: root: INFO: [32mNew market order of | 100.0 IBM buy | at price $145.22549743652345 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:46,279: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,280: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,332: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,333: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,507: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,508: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,562: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,563: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,670: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,724: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,725: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,909: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,910: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,967: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:46,968: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,165: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,166: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,271: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,272: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,419: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,421: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,518: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,519: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,574: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,626: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,627: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,729: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,729: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,785: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,786: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,925: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,926: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,983: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:47,984: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,036: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,038: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,198: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,200: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,346: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,402: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,404: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,521: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,522: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,642: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,670: root: INFO: MLTrader : Executing the on_abrupt_closing event method
+2024-02-08 12:48:48,694: root: INFO: Trading finished
+2024-02-08 12:48:48,699: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,700: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,805: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,806: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,928: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:48,929: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,050: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,051: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,107: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,108: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,230: root: INFO: [32mNew market order of | 37.0 DE buy | at price $391.69200897216797 of class bracket with status unprocessed was submitted.[0m
+2024-02-08 12:48:49,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,233: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,288: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,290: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,411: root: INFO: [34mMLTrader : Trading iteration ended at 2024-02-08 12:48:49[0m
+2024-02-08 12:48:49,412: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,412: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,413: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,414: root: INFO: market order of | 273.0 CMCSA buy | at price $53.098499679565435 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,414: root: INFO: market order of | 273.0 CMCSA buy | at price $53.098499679565435 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,414: root: INFO: [32mFilled Transaction: buy 273.0 of CMCSA at 50.56999969 USD per share[0m
+2024-02-08 12:48:49,414: root: INFO: market order of | 273.0 CMCSA buy | at price $53.098499679565435 of class bracket with status new was filled
+2024-02-08 12:48:49,417: root: INFO: Getting historical prices for DE, 1 bars, 
+2024-02-08 12:48:49,417: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,418: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,418: root: INFO: market order of | 37.0 DE buy | at price $391.69200897216797 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,418: root: INFO: market order of | 37.0 DE buy | at price $391.69200897216797 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,419: root: INFO: [32mFilled Transaction: buy 37.0 of DE at 373.04000854 USD per share[0m
+2024-02-08 12:48:49,419: root: INFO: market order of | 37.0 DE buy | at price $391.69200897216797 of class bracket with status new was filled
+2024-02-08 12:48:49,421: root: INFO: Getting historical prices for IBM, 1 bars, 
+2024-02-08 12:48:49,421: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,422: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,422: root: INFO: market order of | 100.0 IBM buy | at price $145.22549743652345 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,422: root: INFO: market order of | 100.0 IBM buy | at price $145.22549743652345 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,422: root: INFO: [32mFilled Transaction: buy 100.0 of IBM at 138.30999756 USD per share[0m
+2024-02-08 12:48:49,423: root: INFO: market order of | 100.0 IBM buy | at price $145.22549743652345 of class bracket with status new was filled
+2024-02-08 12:48:49,425: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,425: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,426: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,426: root: INFO: market order of | 179.0 MRK buy | at price $81.123002243042 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,426: root: INFO: market order of | 179.0 MRK buy | at price $81.123002243042 of class bracket with status new was sent to broker backtesting
+2024-02-08 12:48:49,426: root: INFO: [32mFilled Transaction: buy 179.0 of MRK at 77.26000214 USD per share[0m
+2024-02-08 12:48:49,426: root: INFO: market order of | 179.0 MRK buy | at price $81.123002243042 of class bracket with status new was filled
+2024-02-08 12:48:49,427: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,427: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,428: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,428: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,428: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,429: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,429: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,429: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,430: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,431: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,432: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,433: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,433: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,434: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,435: root: INFO: Getting historical prices for IBM, 1 bars, 
+2024-02-08 12:48:49,435: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,435: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,435: root: INFO: Getting historical prices for IBM, 1 bars, 
+2024-02-08 12:48:49,435: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,437: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,437: root: INFO: Getting historical prices for DE, 1 bars, 
+2024-02-08 12:48:49,437: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,438: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,438: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,439: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,439: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,439: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,440: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,440: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,440: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,441: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,441: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,441: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,442: root: INFO: Getting historical prices for DE, 1 bars, 
+2024-02-08 12:48:49,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,442: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,443: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,443: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,443: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,444: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,444: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,445: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,446: root: INFO: Current backtesting datetime 2022-01-05 15:59:00-05:00
+2024-02-08 12:48:49,447: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,447: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,448: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,448: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,448: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,449: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,450: root: INFO: Getting historical prices for IBM, 1 bars, 
+2024-02-08 12:48:49,450: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,451: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,452: root: INFO: Getting historical prices for IBM, 1 bars, 
+2024-02-08 12:48:49,452: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,453: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,453: root: INFO: Getting historical prices for DE, 1 bars, 
+2024-02-08 12:48:49,453: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,454: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,454: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,455: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,455: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,455: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,456: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,456: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,456: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,457: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,457: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,457: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,457: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,458: root: INFO: Getting historical prices for DE, 1 bars, 
+2024-02-08 12:48:49,458: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,458: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,458: root: INFO: Getting historical prices for CMCSA, 1 bars, 
+2024-02-08 12:48:49,458: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,459: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,459: root: INFO: Getting historical prices for MRK, 1 bars, 
+2024-02-08 12:48:49,459: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,460: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-08 12:48:49,461: root: INFO: Current backtesting datetime 2022-01-05 16:00:00-05:00
+2024-02-08 12:48:49,462: root: INFO: Backtesting finished
+2024-02-08 12:48:53,318: backtest_stats: INFO: Backtest took 0:00:32.856956 for a speed of 0.000
