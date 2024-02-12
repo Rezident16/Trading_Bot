@@ -12,6 +12,11 @@ load_dotenv()
 API_KEY = os.getenv("API_KEY")
 API_SECRET = os.getenv("API_SECRET")
 BASE_URL = os.getenv("BASE_URL")
+# API_KEY = 'YOU API KEY'
+# API_SECRET = 'YOUR SECRET'
+# BASE_URL = 'https://paper-api.alpaca.markets'
+
+# Can find them here https://app.alpaca.markets/paper/dashboard/overview
 ALPACA_CREDS = {
     "API_KEY":API_KEY, 
     "API_SECRET": API_SECRET, 
@@ -20,7 +25,7 @@ ALPACA_CREDS = {
 class MLTrader(Strategy): 
     def initialize(self, symbols, cash_at_risk:float=.5): 
         self.symbols = symbols
-        self.sleeptime = "4H" 
+        self.sleeptime = "3H" 
         self.last_trade = {symbol:None for symbol in symbols} 
         self.cash_at_risk = cash_at_risk
         self.api = REST(base_url=BASE_URL, key_id=API_KEY, secret_key=API_SECRET)
@@ -43,8 +48,16 @@ class MLTrader(Strategy):
                                  end=today) 
         news = [ev.__dict__["_raw"]["headline"] for ev in news]
         probability, sentiment = estimate_sentiment(news)
-        return probability, sentiment 
+        return probability, sentiment
 
+    # Added to close open orders from prev day.
+    # def before_market_opens(self):
+    #     self.cancel_open_orders()
+
+    # Update Sentiment probability as needed. For shorts, I set the probability to .999 as its more risky, regular buy positions are a little more aggressive here.
+    # Update take_profit and stop_loss as needed
+    # take_profit_price=round(last_price * X.XX, 2), 
+    # stop_loss_price=round(last_price * X.XX,2)
     def on_trading_iteration(self):
         for symbol in self.symbols:
             cash, last_price, quantity = self.position_sizing(symbol) 
@@ -99,39 +112,46 @@ broker = Alpaca(ALPACA_CREDS)
 strategy = MLTrader(name='mlstrat', broker=broker, 
                     parameters={"symbols":["SPY", "QQQ", "TQQQ", 'SOXL', "MSFT", "AAPL",
                                             "GOOG", "GOOGL", "AMZN", "NVDA", "META", "LLY", "TSLA",
-    # "AVGO", "V", "JPM", "UNH", "WMT", "MA", "XOM", "JNJ", "PG", "HD", "MRK", "ORCL",
-    # "COST", "ABBV", "CVX", "CRM", "ADBE", "AMD", "BAC", "KO", "NFLX", "PEP", "ACN",
-    # "TMO", "MCD", "CSCO", "LIN", "ABT", "TMUS", "DHR", "DIS", "INTC", "INTU", "WFC",
-    # "CMCSA", "VZ", "IBM", "CAT", "QCOM", "NOW", "AMGN", "NKE", "PFE", "AXP", "BX",
-    # "UNP", "GE", "SPGI", "UBER", "TXN", "AMAT", "PM", "MS", "ISRG", "COP", "SYK",
-    # "BA", "LMT", "MDT", "GS", "FDX", "TGT", "HON", "MMM", "RTX", "DE", "SO", "C",
-    # "NET", "ANET", "PANW", "DDOG", "CDNS", "CMG", "SNPS", "SOFI", "QLD", "RBLX",
-    # "SNOW", "CPRT", "FTEC", "METV", "QQQM", "KNSL", "MPWR", "SOXX", "PTC", "BRO",
-    # "TWLO", "TYL", 
-    # "FTNT", "ADSK", "APH", "CDW", "VEEV", "SPYG", "VTI", "VOO",
-    # "EQIX", "MSI", "ON", "BLK", "WM", "QQQJ", "ADI", "SCHD", "CSGP", "JEPI", 
+    "AVGO", "V", "JPM", "UNH", "WMT", "MA", "XOM", "JNJ", "PG", "HD", "MRK", "ORCL",
+    "COST", "ABBV", "CVX", "CRM", "ADBE", "AMD", "BAC", "KO", "NFLX", "PEP", "ACN",
+    "TMO", "MCD", "CSCO", "LIN", "ABT", "TMUS", "DHR", "DIS", "INTC", "INTU", "WFC",
+    "CMCSA", "VZ", "IBM", "CAT", "QCOM", "NOW", "AMGN", "NKE", "PFE", "AXP", "BX",
+    "UNP", "GE", "SPGI", "UBER", "TXN", "AMAT", "PM", "MS", "ISRG", "COP", "SYK",
+    "BA", "LMT", "MDT", "GS", "FDX", "TGT", "HON", "MMM", "RTX", "DE", "SO", "C",
+    "NET", "ANET", "PANW", "DDOG", "CDNS", "CMG", "SNPS", "SOFI", "QLD", "RBLX",
+    "SNOW", "CPRT", "FTEC", "METV", "QQQM", "KNSL", "MPWR", "SOXX", "PTC", "BRO",
+    "TWLO", "TYL", 
+    "FTNT", "ADSK", "APH", "CDW", "VEEV", "SPYG", "VTI", "VOO",
+    "EQIX", "MSI", "ON", "BLK", "WM", "QQQJ", "ADI", "SCHD", "CSGP", "JEPI",
+    "PLTR", "TLRY", "TDOC", "SAVE", "CHPT"
     ],
                                 "cash_at_risk":.25})
 
+# Comment this in for backtesting, update the symbols as needed
 # strategy.backtest(
 #     YahooDataBacktesting, 
 #     start_date, 
 #     end_date, 
-#     parameters={"symbols":["SPY", "QQQ", "TQQQ", 'SOXL', "MSFT", "AAPL",
-                                            # "GOOG", "GOOGL", "AMZN", "NVDA", "META", "LLY", "TSLA",
-    # "AVGO", "V", "JPM", "UNH", "WMT", "MA", "XOM", "JNJ", "PG", "HD", "MRK", "ORCL",
-    # "COST", "ABBV", "CVX", "CRM", "ADBE", "AMD", "BAC", "KO", "NFLX", "PEP", "ACN",
-    # "TMO", "MCD", "CSCO", "LIN", "ABT", "TMUS", "DHR", "DIS", "INTC", "INTU", "WFC",
-    # "CMCSA", "VZ", "IBM", "CAT", "QCOM", "NOW", "AMGN", "NKE", "PFE", "AXP", "BX",
-    # "UNP", "GE", "SPGI", "UBER", "TXN", "AMAT", "PM", "MS", "ISRG", "COP", "SYK",
-    # "BA", "LMT", "MDT", "GS", "FDX", "TGT", "HON", "MMM", "RTX", "DE", "SO", "C",
-    # "NET", "ANET", "PANW", "DDOG", "CDNS", "CMG", "SNPS", "SOFI", "QLD", "RBLX",
-    # "SNOW", "CPRT", "FTEC", "METV", "QQQM", "KNSL", "MPWR", "SOXX", "PTC", "BRO",
-    # "TWLO", "TYL", 
-    # "FTNT", "ADSK", "APH", "CDW", "VEEV", "SPYG", "VTI", "VOO",
-    # "EQIX", "MSI", "ON", "BLK", "WM", "QQQJ", "ADI", "SCHD", "CSGP", "JEPI", 
-#     ], "cash_at_risk":.5}
+#     parameters={"symbols":[
+# "SPY", "QQQ", 
+# # "TQQQ", 'SOXL', "MSFT", "AAPL",
+# #                                             "GOOG", "GOOGL", "AMZN", "NVDA", "META", "LLY", "TSLA",
+# #     "AVGO", "V", "JPM", "UNH", "WMT", "MA", "XOM", "JNJ", "PG", "HD", "MRK", "ORCL",
+# #     "COST", "ABBV", "CVX", "CRM", "ADBE", "AMD", "BAC", "KO", "NFLX", "PEP", "ACN",
+# #     "TMO", "MCD", "CSCO", "LIN", "ABT", "TMUS", "DHR", "DIS", "INTC", "INTU", "WFC",
+# #     "CMCSA", "VZ", "IBM", "CAT", "QCOM", "NOW", "AMGN", "NKE", "PFE", "AXP", "BX",
+# #     "UNP", "GE", "SPGI", "UBER", "TXN", "AMAT", "PM", "MS", "ISRG", "COP", "SYK",
+# #     "BA", "LMT", "MDT", "GS", "FDX", "TGT", "HON", "MMM", "RTX", "DE", "SO", "C",
+# #     "NET", "ANET", "PANW", "DDOG", "CDNS", "CMG", "SNPS", "SOFI", "QLD", "RBLX",
+# #     "SNOW", "CPRT", "FTEC", "METV", "QQQM", "KNSL", "MPWR", "SOXX", "PTC", "BRO",
+# #     "TWLO", "TYL", 
+# #     "FTNT", "ADSK", "APH", "CDW", "VEEV", "SPYG", "VTI", "VOO",
+# #     "EQIX", "MSI", "ON", "BLK", "WM", "QQQJ", "ADI", "SCHD", "CSGP", "JEPI",
+# #     "PLTR", "TLRY", "TDOC", "SAVE", "CHPT"
+#     ], "cash_at_risk":.25}
 # )
+
+# Comment out if backtesting, comment in for trading
 trader = Trader()
 trader.add_strategy(strategy)
 trader.run_all()
