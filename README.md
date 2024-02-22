@@ -1,7 +1,11 @@
 # About the bot
 The original code was developed by <a href="https://www.youtube.com/watch?v=c9OjEThuJjY&ab_channel=NicholasRenotte" target="_blank">Nicholas Renotte</a>.
 Some modifications were added to allow for multiple stocks to be traded.
-The bot is currently in testing stage - needs to verify that the position closes when the sentiment changes, specifically for the "short" positions.
+The bot is currently in the testing stage - and needs to verify that the position closes when the sentiment changes, specifically for the "short" positions.
+
+# Backtesting Results
+Backtesting results show significant returns
+![image](https://github.com/Rezident16/Trading_Bot/assets/137537436/ec580473-d1e6-45aa-aa7c-5326356735fd)
 
 # Startup 🚀
 1. Create a virtual environment `conda create -n trader python=3.10` 
@@ -19,7 +23,7 @@ If you're getting an SSL error when you attempt to call out to the Alpaca Tradin
 * https://letsencrypt.org/certs/lets-encrypt-r3.pem 
 * https://letsencrypt.org/certs/isrg-root-x1-cross-signed.pem 
 2. Once downloaded, change the file extension of each file to `.cer` 
-3. Double click the file and run through the wizard to install it, use all of the default selections. 
+3. Double-click the file and run through the wizard to install it, use all of the default selections. 
 
 </br>
 # Other References 🔗
