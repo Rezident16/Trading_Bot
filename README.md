@@ -1,3 +1,8 @@
+# About the bot
+The original code was developed by <a href="https://www.youtube.com/watch?v=c9OjEThuJjY&ab_channel=NicholasRenotte" target="_blank">Nicholas Renotte</a>
+Some modifications were added to allow for multiple stocks to be traded.
+The bot is currently in testing stage - needs to verify that the position closes when the sentiment changes, specifically for the "short" positions.
+
 # Startup 🚀
 1. Create a virtual environment `conda create -n trader python=3.10` 
 2. Activate it `conda activate trader`
