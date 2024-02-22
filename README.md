@@ -1,5 +1,5 @@
 # About the bot
-The original code was developed by <a href="https://www.youtube.com/watch?v=c9OjEThuJjY&ab_channel=NicholasRenotte" target="_blank">Nicholas Renotte</a>
+The original code was developed by <a href="https://www.youtube.com/watch?v=c9OjEThuJjY&ab_channel=NicholasRenotte" target="_blank">Nicholas Renotte</a>.
 Some modifications were added to allow for multiple stocks to be traded.
 The bot is currently in testing stage - needs to verify that the position closes when the sentiment changes, specifically for the "short" positions.
 
