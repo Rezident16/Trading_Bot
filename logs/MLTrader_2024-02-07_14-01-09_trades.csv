@@ -1,5 +1,0 @@
-time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
-2020-01-16 09:30:00-05:00,MLTrader,NVDA,buy,market,new,1,gtc,0.0,1,stock,,,
-2020-01-16 09:30:00-05:00,MLTrader,NVDA,buy,market,fill,1,gtc,0.0,1,stock,61.93000030517578,807.0,0.0
-2020-01-27 08:30:00-05:00,MLTrader,NVDA,sell,limit,canceled,1,day,0.0,1,stock,,,
-2020-01-27 08:30:00-05:00,MLTrader,NVDA,sell,stop,fill,1,day,0.0,1,stock,58.83350028991699,807.0,0.0

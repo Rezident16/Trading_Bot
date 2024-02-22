@@ -1,7 +1,0 @@
-time,strategy,symbol,side,type,status,multiplier,time_in_force,asset.strike,asset.multiplier,asset.asset_type,price,filled_quantity,trade_cost
-2022-01-04 09:30:00-05:00,MLTrader,ON,buy,market,new,1,gtc,0.0,1,stock,,,
-2022-01-04 09:30:00-05:00,MLTrader,ON,buy,market,fill,1,gtc,0.0,1,stock,70.55000305175781,709.0,0.0
-2022-01-04 10:30:00-05:00,MLTrader,ON,sell,limit,canceled,1,day,0.0,1,stock,,,
-2022-01-04 10:30:00-05:00,MLTrader,ON,sell,stop,fill,1,day,0.0,1,stock,68.43,709.0,0.0
-2022-01-07 09:30:00-05:00,MLTrader,QQQ,sell,market,new,1,gtc,0.0,1,stock,,,
-2022-01-07 09:30:00-05:00,MLTrader,QQQ,sell,market,fill,1,gtc,0.0,1,stock,384.0299987792969,128.0,0.0
